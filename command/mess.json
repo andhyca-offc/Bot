@@ -1,13 +1,13 @@
 {
-    "wait": "```Proses kak!```",
+    "wait": "[🧭] 𝗪𝗮𝗶𝘁, 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 𝗦𝗶𝘀",
     "error": {
-        "Iv": "Link yang kamu berikan tidak valid",
-        "api": "Maaf terjadi kesalahan"
+        "Iv": "[⚠️] 𝗬𝗼𝘂 𝗔𝗿𝗲 𝗦𝗲𝗻𝗱 𝗟𝗶𝗻𝗸 𝗧𝗵𝗶𝘀 𝗡𝗼𝘁 𝗩𝗮𝗹𝗶𝗱",
+        "api": "[⚠️] 𝗦𝗼𝗿𝗿𝘆, 𝗧𝗵𝗲𝗿𝗲 𝗜𝘀 𝗔𝗻 𝗘𝗿𝗼𝗿𝗿"
     },
-    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
-    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
-    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
-    "BotAdmin": "Bot Harus menjadi admin",
-    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
-    "OnlyPrem": "Perintah ini khusus member premium"
+    "OnlyGrup": "[❕] 𝗧𝗵𝗶𝘀 𝗜𝘀 𝗖𝗼𝗺𝗺𝗮𝗻𝗱 𝗢𝗻𝗹𝘆 𝗚𝗿𝗼𝘂𝗽 𝗠𝗲𝘀𝘀𝗮𝗴𝗲",
+    "OnlyPM": "[❕] 𝗧𝗵𝗶𝘀 𝗜𝘀 𝗖𝗼𝗺𝗺𝗮𝗻𝗱 𝗢𝗻𝗹𝘆 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗠𝗲𝘀𝘀𝗮𝗴𝗲",
+    "GrupAdmin": "[❗] 𝗧𝗵𝗶𝘀 𝗜𝘀 𝗖𝗼𝗺𝗺𝗮𝗻𝗱 𝗢𝗻𝗹𝘆 𝗚𝗿𝗼𝘂𝗽 𝗔𝗱𝗺𝗶𝗻",
+    "BotAdmin": "[❗] 𝗠𝗮𝗸𝗲 𝗕𝗼𝘁𝘇 𝗔𝗱𝗺𝗶𝗻",
+    "OnlyOwner": "[❗] 𝗧𝗵𝗶𝘀 𝗜𝘀 𝗖𝗼𝗺𝗺𝗮𝗻𝗱 𝗢𝗻𝗹𝘆 𝗕𝗼𝘁𝘇 𝗢𝘄𝗻𝗲𝗿",
+    "OnlyPrem": "[❗] 𝗧𝗵𝗶𝘀 𝗜𝘀 𝗖𝗼𝗺𝗺𝗮𝗻𝗱 𝗢𝗻𝗹𝘆 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 𝗨𝘀𝗲𝗿"
 }
